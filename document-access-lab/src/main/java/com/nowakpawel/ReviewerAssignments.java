@@ -1,6 +1,11 @@
+package com.nowakpawel;
+
+import org.springframework.stereotype.Component;
+
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
+@Component
 public class ReviewerAssignments {
     private record Assignment(String reviewer, long applicationId) {}
 
