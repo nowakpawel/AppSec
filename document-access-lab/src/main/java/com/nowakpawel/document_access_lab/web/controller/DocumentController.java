@@ -1,6 +1,6 @@
 package com.nowakpawel.document_access_lab.web.controller;
 
-import com.nowakpawel.ReviewerAssignments;
+import com.nowakpawel.document_access_lab.assignment.ReviewerAssignments;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;

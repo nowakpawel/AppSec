@@ -1,4 +1,4 @@
-package com.nowakpawel;
+package com.nowakpawel.document_access_lab.assignment;
 
 import org.springframework.stereotype.Component;
 

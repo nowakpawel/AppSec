@@ -1,10 +1,10 @@
 package com.nowakpawel.document_access_lab.configuration;
 
-import com.nowakpawel.ReviewerAssignments;
+import com.nowakpawel.document_access_lab.assignment.ReviewerAssignments;
 import org.springframework.context.annotation.Bean;
 
 @org.springframework.context.annotation.Configuration
-public class Configuration {
+public class LabConfiguration {
 
     @Bean
     ReviewerAssignments reviewerAssignments() {

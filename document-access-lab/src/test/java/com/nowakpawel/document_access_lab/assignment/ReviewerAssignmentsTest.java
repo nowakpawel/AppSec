@@ -1,4 +1,4 @@
-import com.nowakpawel.ReviewerAssignments;
+package com.nowakpawel.document_access_lab.assignment;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
